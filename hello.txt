@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "abc"
 echo "xu ly merge conflic"
+echo "test conflic"
