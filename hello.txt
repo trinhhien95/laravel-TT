@@ -2,3 +2,7 @@
 echo "abc"
 echo "xu ly merge conflic"
 echo "test conflic"
+echo "123"
+"edvfvvsv
+aaaaaaaaaaaaaaaaaa
+fgdggdgfdg
