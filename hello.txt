@@ -4,3 +4,9 @@ echo "xu ly merge conflic"
 echo "test conflic"
 111111111111111111111
 gfhfhfgh
+echo "123"
+"edvfvvsv
+aaaaaaaaaaaaaaaaaa
+fgdggdgfdg
+222
+22222222222
